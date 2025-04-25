@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: skibidi toilet
+title: Max Wachter
 
 # Your name to show in the footer
-author: Some Person
+author: Max Wachter
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Experience:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Contact: "https://deanattali.com"
 
 ################
 # --- Logo --- #
