@@ -21,10 +21,8 @@ author: Max Wachter
 
 navbar-links:
   About Me: "aboutme"
-  Experience:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: "https://deanattali.com"
+  Experience: # "link"
+  Contact: # "link"
 
 ################
 # --- Logo --- #
@@ -50,14 +48,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "mwachter@nd.edu"
+  linkedin: "https://www.linkedin.com/in/max-wachter/"
+  github: M-Wach
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -86,7 +79,6 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
