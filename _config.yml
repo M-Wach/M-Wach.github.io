@@ -257,21 +257,21 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 0
 
 kramdown:
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
-defaults:
+# defaults:
   -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+    #scope:
+    #  path: ""
+      #type: "sandwich"
+   # values:
+      #layout: "sandwich"
+     # comments: true  # add comments to all blog posts
+    #  social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
